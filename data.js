@@ -2,7 +2,7 @@ var APP_DATA = {
   "scenes": [
     {
       "id": "0-living-1",
-      "name": "Living 1",
+      "name": "LIVING 1",
       "levels": [
         {
           "tileSize": 256,
@@ -24,16 +24,16 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 1.7906288352507822,
-        "pitch": 0.4013635853545541,
-        "fov": 1.297547250712257
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [],
       "infoHotspots": []
     },
     {
       "id": "1-living-2",
-      "name": "Living 2",
+      "name": "LIVING 2",
       "levels": [
         {
           "tileSize": 256,
@@ -64,7 +64,7 @@ var APP_DATA = {
     },
     {
       "id": "2-dining",
-      "name": "Dining",
+      "name": "DINING",
       "levels": [
         {
           "tileSize": 256,
@@ -95,7 +95,7 @@ var APP_DATA = {
     },
     {
       "id": "3-bay-window",
-      "name": "Bay Window",
+      "name": "BAY WINDOW",
       "levels": [
         {
           "tileSize": 256,
@@ -126,7 +126,7 @@ var APP_DATA = {
     },
     {
       "id": "4-crockery",
-      "name": "Crockery",
+      "name": "CROCKERY",
       "levels": [
         {
           "tileSize": 256,
@@ -157,7 +157,7 @@ var APP_DATA = {
     },
     {
       "id": "5-wash",
-      "name": "Wash",
+      "name": "WASH",
       "levels": [
         {
           "tileSize": 256,
@@ -188,7 +188,7 @@ var APP_DATA = {
     },
     {
       "id": "6-kitchen",
-      "name": "Kitchen",
+      "name": "KITCHEN",
       "levels": [
         {
           "tileSize": 256,
